@@ -1,0 +1,2 @@
+Hello, Linux CLI!
+My first time using linus for practice
